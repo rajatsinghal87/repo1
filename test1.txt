@@ -1,10 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is D45F-C9BB
-
- Directory of C:\Myproject
-
-03/05/2020  12:13 PM    <DIR>          .
-03/05/2020  12:13 PM    <DIR>          ..
-03/05/2020  12:13 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  142,965,444,608 bytes free
+change 1
